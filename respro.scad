@@ -1,5 +1,5 @@
 anchorDiam = 19;
-anchorInnerDiam = 16;
+anchorInnerDiam = anchorDiam - 5;
 innerCylHeight = 6.5;
 height = innerCylHeight  + 2;
 anchorX = 2.25;
